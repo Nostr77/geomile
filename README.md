@@ -16,7 +16,9 @@ It could not be a polygon, because you can draw a polygon, that is actually a st
 
 # Dataset 
 Random, somewhere on the Greek-Turkish border. With the arbitrary shape (neither rectangle nor square)
+
 https://github.com/Nostr77/geomile/blob/main/geomile.xlsx
+
 https://github.com/Nostr77/geomile/blob/main/geomile_dataset_visual.JPG - here you can see it on the satellite map
 
 
