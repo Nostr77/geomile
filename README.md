@@ -12,7 +12,7 @@ I have 493 points in longitude and latitude over roughly a 25 square mile area. 
 4) The result of most populated square km = coordinates of 4 corners + visualization 
 
 # note!
-It could not be a polygon, because you can draw a polygon, that is actually a stripe or star, that can cover all your points at the same time (limited in 1*1 square km).
+It could not be a polygon, because you can draw a polygon, that is actually a stripe or star, which covers all your points at the same time (limited in 1*1 square km).
 
 # Dataset 
 Random, somewhere on the Greek-Turkish border. With the arbitrary shape (neither rectangle nor square)
